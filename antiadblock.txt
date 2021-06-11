@@ -3,4 +3,4 @@
 !
 ! `Force Adblock` (app_vars) - Please disable Adblock to proceed to the destination page.
 ! `#%#//scriptlet("set-constant", "app_vars.force_disable_adblock", "undefined")`
-freecrypto.cyou#%#//scriptlet("set-constant", "app_vars.force_disable_adblock", "undefined")
+theicongenerator.com,freecrypto.cyou#%#//scriptlet("set-constant", "app_vars.force_disable_adblock", "undefined")
