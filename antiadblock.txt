@@ -7,4 +7,4 @@ mof.pw,shortlink.prz.pw,freecrypto.cyou#%#//scriptlet("set-constant", "app_vars.
 !
 !--- BlockAdBlock ---
 ! Old and 4.2b (Scriptlet `#%#//scriptlet("prevent-bab")`)
-shortlink.prz.pw#%#//scriptlet("prevent-bab")
+bitsfree.net,shortlink.prz.pw#%#//scriptlet("prevent-bab")
