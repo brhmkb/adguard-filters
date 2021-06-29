@@ -3,7 +3,7 @@
 !
 ! `Force Adblock` (app_vars) - Please disable Adblock to proceed to the destination page.
 ! `#%#//scriptlet("set-constant", "app_vars.force_disable_adblock", "undefined")`
-insuranceblog.xyz,mof.pw,shortlink.prz.pw,freecrypto.cyou#%#//scriptlet("set-constant", "app_vars.force_disable_adblock", "undefined")
+techmody.io,insuranceblog.xyz,mof.pw,shortlink.prz.pw,freecrypto.cyou#%#//scriptlet("set-constant", "app_vars.force_disable_adblock", "undefined")
 !
 !--- BlockAdBlock ---
 ! Old and 4.2b (Scriptlet `#%#//scriptlet("prevent-bab")`)
