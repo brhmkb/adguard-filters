@@ -7,4 +7,4 @@ adsgo.xyz,bitcomarket.net,lucidcam.com,urlfiles.com,earnads.top,coinbaze.in,urlt
 !
 !--- BlockAdBlock ---
 ! Old and 4.2b (Scriptlet `#%#//scriptlet("prevent-bab")`)
-11bit.co.in,mcmcryptos.xyz,bitcomarket.net,lucidcam.com,money-lover.ml,bitsfree.net,shortlink.prz.pw#%#//scriptlet("prevent-bab")
+sl.proinfinity.fun,11bit.co.in,mcmcryptos.xyz,bitcomarket.net,lucidcam.com,money-lover.ml,bitsfree.net,shortlink.prz.pw#%#//scriptlet("prevent-bab")
