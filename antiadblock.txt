@@ -7,4 +7,4 @@ mmo1s.com,sl.proinfinity.fun,adsgo.xyz,bitcomarket.net,lucidcam.com,urlfiles.com
 !
 !--- BlockAdBlock ---
 ! Old and 4.2b (Scriptlet `#%#//scriptlet("prevent-bab")`)
-bshopme.site,forex-trnd.com,cryptoempires.io,sl.proinfinity.fun,11bit.co.in,mcmcryptos.xyz,bitcomarket.net,lucidcam.com,money-lover.ml,bitsfree.net,shortlink.prz.pw#%#//scriptlet("prevent-bab")
+owllink.net,bshopme.site,forex-trnd.com,cryptoempires.io,sl.proinfinity.fun,11bit.co.in,mcmcryptos.xyz,bitcomarket.net,lucidcam.com,money-lover.ml,bitsfree.net,shortlink.prz.pw#%#//scriptlet("prevent-bab")
