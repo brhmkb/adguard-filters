@@ -3,7 +3,7 @@
 !
 ! `Force Adblock` (app_vars) - Please disable Adblock to proceed to the destination page.
 ! `#%#//scriptlet("set-constant", "app_vars.force_disable_adblock", "undefined")`
-yofaurls.com,icut.click,t2l.one,mmo1s.com,sl.proinfinity.fun,adsgo.xyz,bitcomarket.net,lucidcam.com,urlfiles.com,earnads.top,coinbaze.in,urlty.com,fire-link.net,forex-gold.net,techmody.io,insuranceblog.xyz,mof.pw,shortlink.prz.pw,freecrypto.cyou#%#//scriptlet("set-constant", "app_vars.force_disable_adblock", "undefined")
+claimclicks.com,yofaurls.com,icut.click,t2l.one,mmo1s.com,sl.proinfinity.fun,adsgo.xyz,bitcomarket.net,lucidcam.com,urlfiles.com,earnads.top,coinbaze.in,urlty.com,fire-link.net,forex-gold.net,techmody.io,insuranceblog.xyz,mof.pw,shortlink.prz.pw,freecrypto.cyou#%#//scriptlet("set-constant", "app_vars.force_disable_adblock", "undefined")
 !
 !--- BlockAdBlock ---
 ! Old and 4.2b (Scriptlet `#%#//scriptlet("prevent-bab")`)
