@@ -2,4 +2,4 @@
 ||1xbtc.io$all
 ||videocampaign.co$all
 ||taghaugh.com$all
-||downloadgate.org
+||downloadgate.org$all
