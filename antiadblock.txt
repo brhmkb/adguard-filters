@@ -7,4 +7,4 @@ coinranking.live,forex-gold.net,hcsbtc.eu,tlin.me,th3dz.com,claimclicks.com,yofa
 !
 !--- BlockAdBlock ---
 ! Old and 4.2b (Scriptlet `#%#//scriptlet("prevent-bab")`)
-sevenjournals.com,bitstar.my.id,bestcripto.xyz,claimercorner.xyz,faucet.ovh,watchdoge.xyz,owllink.net,bshopme.site,forex-trnd.com,cryptoempires.io,sl.proinfinity.fun,11bit.co.in,mcmcryptos.xyz,bitcomarket.net,lucidcam.com,money-lover.ml,bitsfree.net,shortlink.prz.pw#%#//scriptlet("prevent-bab")
+coinfaucet.network,sevenjournals.com,bitstar.my.id,bestcripto.xyz,claimercorner.xyz,faucet.ovh,watchdoge.xyz,owllink.net,bshopme.site,forex-trnd.com,cryptoempires.io,sl.proinfinity.fun,11bit.co.in,mcmcryptos.xyz,bitcomarket.net,lucidcam.com,money-lover.ml,bitsfree.net,shortlink.prz.pw#%#//scriptlet("prevent-bab")
