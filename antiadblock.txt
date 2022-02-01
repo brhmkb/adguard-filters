@@ -5,10 +5,9 @@ marocclickers.xyz,doge-mining.win,next.netfile.cc,coinranking.live,forex-gold.ne
 !
 !--- BlockAdBlock ---
 ! Old and 4.2b `#%#//scriptlet("prevent-bab")`
-coinpayz.xyz,urbharat.xyz,tron-free.com,extra-crypto.com,bitcoinfaucet.network,coinfaucet.network,sevenjournals.com,bitstar.my.id,bestcripto.xyz,claimercorner.xyz,faucet.ovh,watchdoge.xyz,owllink.net,bshopme.site,forex-trnd.com,cryptoempires.io,sl.proinfinity.fun,11bit.co.in,mcmcryptos.xyz,bitcomarket.net,lucidcam.com,money-lover.ml,bitsfree.net,shortlink.prz.pw#%#//scriptlet("prevent-bab")
+gamefaucet.xyz,coinpayz.xyz,urbharat.xyz,tron-free.com,extra-crypto.com,bitcoinfaucet.network,coinfaucet.network,sevenjournals.com,bitstar.my.id,bestcripto.xyz,claimercorner.xyz,faucet.ovh,watchdoge.xyz,owllink.net,bshopme.site,forex-trnd.com,cryptoempires.io,sl.proinfinity.fun,11bit.co.in,mcmcryptos.xyz,bitcomarket.net,lucidcam.com,money-lover.ml,bitsfree.net,shortlink.prz.pw#%#//scriptlet("prevent-bab")
 !
 !--- FuckAdBlock ---
 ! `#%#//scriptlet("prevent-fab-3.2.0")`
 
 ! `#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links { display: block !important; }`
-
