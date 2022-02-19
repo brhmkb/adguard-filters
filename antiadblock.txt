@@ -1,3 +1,9 @@
+! ------------------------------------[INFO]--------------------------------------
+! Title: Adguard Filters - Antiadblock
+! Expires: 1 day
+! Homepage: https://github.com/BarhamBasha/adguard-filters
+! License: https://github.com/BarhamBasha/adguard-filters/blob/main/LICENSE
+! ------------------------------------[FILTERS]-------------------------------------
 !--- Force Adblock ---
 ! (app_vars) - Please disable Adblock to proceed to the destination page.
 ! `#%#//scriptlet("set-constant", "app_vars.force_disable_adblock", "undefined")`
